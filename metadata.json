@@ -1,0 +1,6 @@
+{
+  "name": "AI 대화 샘플 - 원자재 모니터링 프로그램",
+  "description": "구매팀 대리와 AI의 대화를 통해 원자재 모니터링 프로그램을 점진적으로 완성해 나가는 인터랙티브 시나리오 뷰어입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
